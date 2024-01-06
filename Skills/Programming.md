@@ -26,19 +26,19 @@
   - assignment: 🙋 explained
   - regular expression: 🙋 explained
   - interface: 🙋 explained
-  - contract: 🎓 known
+  - contract: 🙋 explained
   - module: 🙋 explained
-  - call stack: 🎓 known
+  - call stack: 🙋 explained
 - Functions
   - signature: 🙋 explained
   - argument: 🙋 explained
   - parameter: 🙋 explained
-  - pure function 🎓 known
+  - pure function 🙋 explained
   - lambda expression: 🙋 explained
-  - side effects: 🎓 known
+  - side effects: 🙋 explained
   - closure: 🙋 explained
   - partial application: 🙋 explained
-  - curry: 🎓 known
+  - curry: 🙋 explained
   - higher order: 🙋 explained
   - recursion: 🙋 explained
   - callback: 🙋 explained
@@ -55,7 +55,7 @@
 - Data structures
   - array: 🙋 explained
   - structure: 🙋 explained
-  - record: 🎓 known
+  - record: 🙋 explained
   - enum: 🙋 explained
   - instance: 🙋 explained
   - object: 🙋 explained
@@ -64,12 +64,12 @@
   - set: 🙋 explained
   - hash table: 🙋 explained
   - linked list: 🙋 explained
-  - doubly list: 👂 heard
-  - unrolled list: 👂 heard
-  - circular list: 👂 heard
+  - doubly list: 🎓 known
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
   - queue: 🙋 explained
   - stack: 🙋 explained
-  - deque: 👂 heard
+  - deque: 🎓 known
   - tree: 🙋 explained
   - graph: 🙋 explained
   - iterator: 🙋 explained
@@ -95,7 +95,7 @@
   - decomposition: 🙋 explained
   - spaghetti: 🙋 explained
   - silver bullet: 🙋 explained
-  - not invented here: 🎓 known
+  - not invented here: 🙋 explained
   - dead code: 🙋 explained
   - unreachable code: 🙋 explained
   - duplicate code: 🙋 explained

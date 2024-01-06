@@ -14,7 +14,7 @@
   - Atomic Variables and Concurrent Data Structures: 👂 heard
   - Thread Pools and Executor Framework: 🖐️ used
   - CompletableFuture and Reactive Streams: 🖐️ used
-  - Virtual Threads (Project Loom)
+  - Virtual Threads (Project Loom): 👂 heard
 - Java Language Enhancements
   - Lambda Expressions and Functional Interfaces: 🙋 explained
   - Java Modules (Project Jigsaw): 👂 heard
@@ -23,14 +23,14 @@
 - Kotlin Language Features
   - Inline Functions and Reified Type Parameters: 🖐️ used
   - Companion Objects: 🖐️ used
-  - Operator Overloading: 🎓 known
+  - Operator Overloading: 🖐️ used
   - Delegated Properties: 🎓 known
   - Destructuring Declarations: 🖐️ used
   - Type Aliases: 🎓 known
 - Functional Programming in Kotlin
-  - Immutability and Pure Functions: 🎓 known
-  - Sequence and Collection Operations: 🎓 known
-  - Lazy Evaluation: 🎓 known
+  - Immutability and Pure Functions: 🖐️ used
+  - Sequence and Collection Operations: 🖐️ used
+  - Lazy Evaluation: 🖐️ used
 - Coroutines and Asynchronous Programming
   - Coroutine Builders and Contexts: 🖐️ used
   - Structured Concurrency: 🎓 known

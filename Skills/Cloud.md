@@ -1,49 +1,48 @@
 ## Cloud concepts
 
 - Cloud Design Patterns
-  - Ambassador: 👂 heard
-  - Anti-Corruption Layer
+  - Ambassador: 🎓 known
+  - Anti-Corruption Layer: 👂 heard
   - Asynchronous Request-Reply: 👂 heard
-  - Backends for Frontends
-  - Bulkhead
-  - Cache-Aside: 👂 heard
-  - Choreography
-  - Circuit Breaker
-  - Claim Check
-  - Compensating Transaction
-  - Competing Consumers
-  - Compute Resource Consolidation
+  - Backends for Frontends: 🙋 explained
+  - Bulkhead: 👂 heard
+  - Cache-Aside: 🎓 known
+  - Choreography: 👂 heard
+  - Circuit Breaker: 👂 heard
+  - Claim Check: 👂 heard
+  - Compensating Transaction: 👂 heard
+  - Competing Consumers: 👂 heard
+  - Compute Resource Consolidation: 👂 heard
   - CQRS (Command Query Responsibility Segregation): 👂 heard
-  - Deployment Stamps
-  - Edge Workload Configuration
-  - Event Sourcing
-  - External Configuration Store
-  - Federated Identity: 👂 heard
-  - Gatekeeper
-  - Gateway Aggregation
-  - Gateway Offloading
-  - Gateway Routing: 👂 heard
-  - Geodes
-  - Health Endpoint Monitoring: 👂 heard
-  - Index Table: 👂 heard
-  - Leader Election
-  - Materialized View: 👂 heard
-  - Pipes and Filters
+  - Deployment Stamps: 👂 heard
+  - Edge Workload Configuration: 👂 heard
+  - Event Sourcing: 🎓 known
+  - External Configuration Store: 🖐️ used
+  - Federated Identity: 🙋 explained
+  - Gatekeeper: 🎓 known
+  - Gateway Aggregation: 🎓 known
+  - Gateway Offloading: 👂 heard
+  - Gateway Routing: 🖐️ used
+  - Geodes: 🎓 known
+  - Health Endpoint Monitoring: 🖐️ used
+  - Index Table: 🎓 known
+  - Leader Election: 👂 heard
+  - Materialized View: 🎓 known
+  - Pipes and Filters: 👂 heard
   - Priority Queue: 👂 heard
   - Publisher/Subscriber: 🖐️ used
   - Queue-Based Load Leveling: 👂 heard
   - Rate Limit Pattern: 👂 heard
-  - Retry: 👂 heard
-  - Saga
-  - Scheduler Agent Supervisor
-  - Sequential Convoy
-  - Sharding: 👂 heard
+  - Retry: 🎓 known
+  - Saga: 👂 heard
+  - Scheduler Agent Supervisor: 👂 heard
+  - Sequential Convoy: 👂 heard
+  - Sharding: 🎓 known
   - Sidecar: 🖐️ used
   - Static Content Hosting: 🖐️ used
-  - Strangler Fig
-  - Throttling
-  - Valet Key: 👂 heard
-  - Scalability Patterns: 👂 heard
+  - Strangler Fig: 👂 heard
+  - Throttling: 👂 heard
+  - Valet Key: 🎓 known
 - Cloud Computing Models
   - Public Cloud: 🙋 explained
   - Private Cloud: 🙋 explained
@@ -58,17 +57,17 @@
   - App Engine: 🙋 explained
   - Kubernetes Engine: 🙋 explained
   - Cloud Storage: 🙋 explained
-  - Cloud SQL: 🖐️ used
-  - Cloud Firestore: 🎓 known
+  - Cloud SQL: 🙋 explained
+  - Cloud Firestore: 🖐️ used
   - Cloud Bigtable: 🎓 known
   - Cloud Spanner: 🎓 known
   - Virtual Private Cloud (VPC): 🙋 explained
-  - Cloud Load Balancing
+  - Cloud Load Balancing: 🙋 explained
   - Cloud DNS: 🙋 explained
   - CDN: 🎓 known
   - Firewall Rules: 🙋 explained
   - Identity and Access Management (IAM): 🙋 explained
-  - Key Management Service (KMS)
+  - Key Management Service (KMS): 🎓 known
   - BigQuery: 🎓 known
   - Dataflow: 👂 heard
   - Dataprep: 👂 heard
@@ -81,7 +80,7 @@
   - Natural Language API: 👂 heard
   - Cloud Functions: 🎓 known
   - Cloud Run: 🙋 explained
-  - Cloud Scheduler
+  - Cloud Scheduler: 🎓 known
   - Cloud Tasks: 🖐️ used
   - Memorystore: 🎓 known
   - Cloud Composer: 🖐️ used

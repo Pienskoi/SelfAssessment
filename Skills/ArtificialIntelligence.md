@@ -1,41 +1,41 @@
 ## Artificial Intelligence concepts
 
 - Basic Concepts
-  - Model: 🎓 known
-  - Artificial Neural Networks (ANN): 🎓 known
-  - Deep Neural Networks (DNN): 🎓 known
-  - Convolutional Neural Networks (CNN): 🎓 known
-  - Recurrent Neural Networks (RNN): 🎓 known
-  - Long Short-Term Memory (LSTM)
+  - Model: 🖐️ used
+  - Artificial Neural Networks (ANN): 🖐️ used
+  - Deep Neural Networks (DNN): 🖐️ used
+  - Convolutional Neural Networks (CNN): 🖐️ used
+  - Recurrent Neural Networks (RNN): 🖐️ used
+  - Long Short-Term Memory (LSTM): 🎓 known
   - Activation Functions: 🎓 known
-  - Backpropagation: 🎓 known
-  - Gradient Descent: 👂 heard
-  - Loss Functions: 🎓 known
-  - Overfitting & Underfitting: 👂 heard
-  - Regularization Techniques
-  - Batch Normalization
-  - Dropout
-  - Transfer Learning
-  - Data Augmentation
-  - Feature Extraction
-  - Hyperparameter Tuning
+  - Backpropagation: 🖐️ used
+  - Gradient Descent: 🖐️ used
+  - Loss Functions: 🖐️ used
+  - Overfitting & Underfitting: 🖐️ used
+  - Regularization Techniques: 🎓 known
+  - Batch Normalization: 🎓 known
+  - Dropout: 🎓 known
+  - Transfer Learning: 👂 heard
+  - Data Augmentation: 👂 heard
+  - Feature Extraction: 👂 heard
+  - Hyperparameter Tuning: 👂 heard
 - Advanced Techniques
-  - Generative Adversarial Networks (GAN)
+  - Generative Adversarial Networks (GAN): 👂 heard
   - Autoencoders
-  - Reinforcement Learning
+  - Reinforcement Learning: 🎓 known
   - Attention Mechanisms
-  - Transformer Models
+  - Transformer Models: 👂 heard
   - Neural Style Transfer
-  - Anomaly Detection
-  - Federated Learning
+  - Anomaly Detection: 🎓 known
+  - Federated Learning: 👂 heard
   - Explainable AI (XAI)
   - Edge AI
 - Computer Vision
-  - Image Classification: 👂 heard
-  - Object Detection: 👂 heard
+  - Image Classification:: 🖐️ used
+  - Object Detection: 🖐️ used
   - Image Segmentation: 👂 heard
   - Face Recognition: 👂 heard
-  - Optical Character Recognition (OCR): 👂 heard
+  - Optical Character Recognition (OCR): 🖐️ used
 - Natural Language Processing (NLP)
   - Text Classification: 👂 heard
   - Sentiment Analysis
@@ -44,8 +44,8 @@
   - Text Generation: 👂 heard
   - Speech Recognition: 👂 heard
 - Data and Model Management
-  - Data Preprocessing: 👂 heard
-  - Model Deployment
-  - Model Monitoring
-  - Model Versioning
-  - Model Pipelines
+  - Data Preprocessing: 🎓 known
+  - Model Deployment: 👂 heard
+  - Model Monitoring: 👂 heard
+  - Model Versioning: 👂 heard
+  - Model Pipelines: 👂 heard

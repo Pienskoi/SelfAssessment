@@ -74,9 +74,9 @@
   - Clean architecture: 🎓 known
   - DDD: 🎓 known
   - Message Queue: 🎓 known
-  - CQS: 👂 heard
-  - CQRS: 👂 heard
-  - Event sourcing
+  - CQS: 🎓 known
+  - CQRS: 🎓 known
+  - Event sourcing: 🎓 known
   - Load balancing: 🙋 explained
   - Serverless clouds: 🙋 explained
   - FaaS clouds: 🙋 explained
