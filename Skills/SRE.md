@@ -13,11 +13,11 @@
   - Caching: 🙋 explained
   - Proxy: 🙋 explained
   - CDN (Content Delivery Network): 🙋 explained
-  - Edge Computing
+  - Edge Computing: 🎓 known
   - Horizontal Scaling: 🙋 explained
   - Vertical Scaling: 🙋 explained
   - Autoscaling: 🙋 explained
-  - Disaster Recovery
+  - Disaster Recovery: 🖐️ used
 - Performance and Monitoring
   - Latency: 🙋 explained
   - Throughput: 🙋 explained
@@ -26,25 +26,25 @@
   - Logging: 🙋 explained
   - Log Aggregation: 🙋 explained
   - Alerting: 🙋 explained
-  - Key Performance Indicator (KPI)
-  - SLA (Service Level Agreement)
-  - SLO (Service Level Objective)
-  - SLI (Service Level Indicator)
-  - Service Discovery
-  - Container Security
-  - Application Performance Monitoring
+  - Key Performance Indicator (KPI): 🎓 known
+  - SLA (Service Level Agreement): 🎓 known
+  - SLO (Service Level Objective): 🎓 known
+  - SLI (Service Level Indicator): 🎓 known
+  - Service Discovery: 🙋 explained
+  - Container Security: 🙋 explained
+  - Application Performance Monitoring: 🖐️ used
 - Deployment Strategies
   - Blue-Green Deployment: 🙋 explained
   - Canary Deployment: 🙋 explained
   - Recreate Deployment: 🙋 explained
   - Rolling Upgrade Deployment: 🙋 explained
-  - Shadow Deployment
-  - A/B Testing Deployment
+  - Shadow Deployment: 🙋 explained
+  - A/B Testing Deployment: 🙋 explained
 - DevOps and Automation
   - CI/CD: 🙋 explained
   - Continuous Deployment vs. Continuous Delivery: 🙋 explained
-  - Git Branching Strategies
+  - Git Branching Strategies: 🖐️ used
   - Infrastructure as Code (IaC): 🙋 explained
   - Identity and Access Management: 🙋 explained
   - Secrets Management: 🙋 explained
-  - Service Mesh
+  - Service Mesh: 🙋 explained

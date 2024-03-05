@@ -39,28 +39,28 @@
   - Hidden class: 🎓 known
   - Object form: 🎓 known
   - instance: 🙋 explained
-  - Introspection: 👂 heard
+  - Introspection: 🎓 known
   - Reflection: 🎓 known
 - Patterns
   - Singleton: 🙋 explained
   - Factory Method: 🙋 explained
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
+  - Abstract Factory: 🎓 known
+  - Adapter: 🎓 known
   - Observer: 🙋 explained
-  - Strategy: 👂 heard
-  - Facade: 👂 heard
+  - Strategy: 🎓 known
+  - Facade: 🖐️ used
   - Proxy: 🎓 known
   - Chain of Responsibility: 👂 heard
   - Command: 👂 heard
   - Iterator: 🙋 explained
-  - State: 👂 heard
-  - Bridge: 👂 heard
+  - State: 🎓 known
+  - Bridge: 🎓 known
   - Builder: 🙋 explained
   - Prototype: 👂 heard
   - Composite: 👂 heard
   - Decorator: 🙋 explained
-  - Flyweight: 👂 heard
-  - Mediator: 👂 heard
+  - Flyweight: 🎓 known
+  - Mediator: 🎓 known
   - Memento: 👂 heard
   - Template Method: 👂 heard
   - Visitor: 👂 heard
