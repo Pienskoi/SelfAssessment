@@ -70,7 +70,7 @@
   - Reference types
   - Type systems
   - Strong typing
-  - Weak typeing
+  - Weak typing
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -165,7 +165,7 @@
   - Exception
   - Unittesting
   - git
-  - Hithub
+  - Github
   - Docker
   - Kubernetes
   - GCC
@@ -207,7 +207,7 @@
   - VJM
   - CLR
   - Mono
-- Operation systems
+- Operating systems
   - Interrupts
   - Drivers
   - Kernel
