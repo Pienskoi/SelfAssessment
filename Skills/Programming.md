@@ -84,7 +84,7 @@
   - Signature: 🙋 explained
   - Argument: 🙋 explained
   - Parameter: 🙋 explained
-  - Pure function 🙋 explained
+  - Pure function: 🙋 explained
   - Lambda expression: 🙋 explained
   - Side effects: 🙋 explained
   - Closure: 🙋 explained
