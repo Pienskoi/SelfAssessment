@@ -67,16 +67,13 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Strict mode | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `71` of `72` skills, `1` to be upgraded, and `61` above needed
+Total: you have `72` of `72` skills, `0` to be upgraded, and `62` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `global` | 🎓 known | ⟶  | 🖐️ used |
-| Strict mode | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `96` of `98` skills, `2` to be upgraded, and `78` above needed
+Total: you have `98` of `98` skills, `0` to be upgraded, and `78` above needed
 
 ## [Async](/Skills/Async.md)
 
