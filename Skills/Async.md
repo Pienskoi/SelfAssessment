@@ -63,13 +63,13 @@
   - `setImmediate`: 🖐️ used
   - `nextTick`: 🖐️ used
   - AbortController: 🖐️ used
-  - AbortSignal: 🎓 known 
+  - AbortSignal: 🎓 known
   - Promise unhandled rejection: 👂 heard
   - Promise double resolve: 👂 heard
   - Atomics: 👂 heard
   - High resolution clock: 👂 heard
-  - Callback hell: 🎓 known 
-  - Promise hell: 🎓 known 
+  - Callback hell: 🎓 known
+  - Promise hell: 🎓 known
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await: 🖐️ used
@@ -86,4 +86,4 @@
   - Web Locks API: 👂 heard
   - IPC: 👂 heard
   - Channel API: 👂 heard
-  - Revealing constructor: 🎓 known 
+  - Revealing constructor: 🎓 known
