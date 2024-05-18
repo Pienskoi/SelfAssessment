@@ -89,3 +89,36 @@
   - Error Reporting: 🎓 known
   - Cloud Build: 🙋 explained
   - Artifact Registry: 🙋 explained
+- AWS Services
+  - Amazon EC2: 🙋 explained
+  - AWS Lambda: 🙋 explained
+  - Amazon ECS (Elastic Container Service): 🙋 explained
+  - Amazon EKS (Elastic Kubernetes Service): 🙋 explained
+  - AWS Fargate: 🎓 known
+  - Amazon S3 (Simple Storage Service): 🙋 explained
+  - Amazon RDS (Relational Database Service): 🙋 explained
+  - Amazon DynamoDB: 🎓 known
+  - Amazon Aurora: 🙋 explained
+  - Amazon Redshift: 👂 heard
+  - Amazon VPC: 🙋 explained
+  - Elastic Load Balancing (ELB): 🙋 explained
+  - Amazon Route 53: 🎓 known
+  - Amazon CloudFront: 🙋 explained
+  - AWS WAF (Web Application Firewall): 🎓 known
+  - AWS IAM (Identity and Access Management): 🙋 explained
+  - AWS KMS (Key Management Service): 🎓 known
+  - Amazon Athena: 👂 heard
+  - Amazon EMR (Elastic MapReduce): 👂 heard
+  - Amazon Kinesis: 👂 heard
+  - AWS Glue: 👂 heard
+  - AWS Step Functions: 👂 heard
+  - Amazon SageMaker: 👂 heard
+  - Amazon Rekognition: 👂 heard
+  - Amazon Comprehend: 👂 heard
+  - AWS CloudFormation: 🙋 explained
+  - AWS CloudTrail: 🙋 explained
+  - Amazon CloudWatch: 🙋 explained
+  - AWS CodeBuild: 👂 heard
+  - AWS CodeDeploy: 👂 heard
+  - AWS CodePipeline: 👂 heard
+  - Amazon ECR (Elastic Container Registry): 🎓 known

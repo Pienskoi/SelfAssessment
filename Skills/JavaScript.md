@@ -22,12 +22,12 @@
   - Iterators: 🙋 explained
   - Async generator: 🙋 explained
   - Async iterator: 🙋 explained
-  - Chaining: 👂 heard
+  - Chaining: 🖐️ used
   - Optional chaining: 👂 heard
-  - IIFE: 👂 heard
-  - Async IIFE: 👂 heard
-  - `global`: 👂 heard
-  - `globalThis`: 👂 heard
+  - IIFE: 🖐️ used
+  - Async IIFE: 🖐️ used
+  - `global`: 🖐️ used
+  - `globalThis`: 🖐️ used
   - `window`: 🖐️ used
   - Getters and setters: 🙋 explained
   - `__proto__`: 🙋 explained
@@ -41,20 +41,20 @@
   - `yield`: 🙋 explained
   - `await`: 🙋 explained
   - Template literal: 🙋 explained
-  - Strict mode: 👂 heard
+  - Strict mode: 🖐️ used
   - Hoisting: 👂 heard
-  - `delete`: 👂 heard
+  - `delete`: 🖐️ used
   - `in`: 🙋 explained
   - `super`: 🙋 explained
   - `eval`: 🙋 explained
   - `static`: 🙋 explained
   - `Number.parseInt`: 🙋 explained
   - `Number.parseFloat`: 🙋 explained
-  - Property descriptors: 👂 heard
-  - Sealing properties: 👂 heard
-  - Freezing properties: 👂 heard
-  - Computed properties: 👂 heard
-  - Instance class fields: 👂 heard
+  - Property descriptors: 🖐️ used
+  - Sealing properties: 🖐️ used
+  - Freezing properties: 🖐️ used
+  - Computed properties: 🖐️ used
+  - Instance class fields: 🖐️ used
   - Static class fields: 🙋 explained
   - Private class fields: 🙋 explained
   - Private class methods: 🙋 explained
@@ -93,17 +93,17 @@
   - `Array`: 🙋 explained
   - `Map`: 🙋 explained
   - `Set`: 🙋 explained
-  - `WeakMap`
-  - `WeakSet`: 👂 heard
+  - `WeakMap`: 🎓 known
+  - `WeakSet`: 🎓 known
   - Typed arrays: 🙋 explained
   - Mixins: 🎓 known
-  - `Object.assign`: 👂 heard
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`: 🎓 known
   - `RegExp`: 🙋 explained
   - `Date`: 🙋 explained
   - `Math`: 🙋 explained
-  - `Reflect`: 👂 heard
+  - `Reflect`: 🎓 known
   - `Error`: 🙋 explained
   - `Atomics`: 👂 heard
   - `JSON`: 🙋 explained
