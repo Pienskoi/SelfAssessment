@@ -26,7 +26,7 @@
   - Optional chaining: 👂 heard
   - IIFE: 🖐️ used
   - Async IIFE: 🖐️ used
-  - `global`: 🎓 known
+  - `global`: 🖐️ used
   - `globalThis`: 🖐️ used
   - `window`: 🖐️ used
   - Getters and setters: 🙋 explained
@@ -41,7 +41,7 @@
   - `yield`: 🙋 explained
   - `await`: 🙋 explained
   - Template literal: 🙋 explained
-  - Strict mode: 🎓 known
+  - Strict mode: 🖐️ used
   - Hoisting: 👂 heard
   - `delete`: 🖐️ used
   - `in`: 🙋 explained
