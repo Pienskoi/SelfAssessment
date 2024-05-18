@@ -83,58 +83,19 @@ Total: you have `96` of `98` skills, `2` to be upgraded, and `78` above needed
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Event | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `49` of `50` skills, `1` to be upgraded, and `11` above needed
+Total: you have `50` of `50` skills, `0` to be upgraded, and `32` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Event | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `36` of `37` skills, `1` to be upgraded, and `13` above needed
+Total: you have `37` of `37` skills, `0` to be upgraded, and `26` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Event loop | 👂 heard | ⟶  | 🎓 known |
-| Pattern Reactor | 👂 heard | ⟶  | 🎓 known |
-| libuv | 👂 heard | ⟶  | 🎓 known |
-| Race conditions | 🎓 known | ⟶  | 🖐️ used |
-| Dead locks | 👂 heard | ⟶  | 🖐️ used |
-| Live locks | 👂 heard | ⟶  | 🖐️ used |
-| Actor Model | 👂 heard | ⟶  | 🎓 known |
-| Thenable | 👂 heard | ⟶  | 🖐️ used |
-| Sync generator | 🎓 known | ⟶  | 🖐️ used |
-| Async Generator | 🎓 known | ⟶  | 🖐️ used |
-| Async Iterator | 🎓 known | ⟶  | 🖐️ used |
-| Event | 🎓 known | ⟶  | 🖐️ used |
-| Chain of responsibility | 👂 heard | ⟶  | 🖐️ used |
-| Middleware | 👂 heard | ⟶  | 🖐️ used |
-| callbackify | 🎓 known | ⟶  | 🖐️ used |
-| promisify | 🎓 known | ⟶  | 🖐️ used |
-| asyncify | 🎓 known | ⟶  | 🖐️ used |
-| Observable/Observer | 🎓 known | ⟶  | 🖐️ used |
-| Async Pool | 🎓 known | ⟶  | 🖐️ used |
-| Async Queue | 🎓 known | ⟶  | 🖐️ used |
-| Async Collector | 🎓 known | ⟶  | 🖐️ used |
-| Semaphore | 👂 heard | ⟶  | 🖐️ used |
-| Spin Lock | 👂 heard | ⟶  | 🎓 known |
-| AbortSignal | 🎓 known | ⟶  | 🖐️ used |
-| Promise unhandled rejection | 👂 heard | ⟶  | 🖐️ used |
-| Promise double resolve | 👂 heard | ⟶  | 🖐️ used |
-| Atomics | 👂 heard | ⟶  | 🎓 known |
-| High resolution clock | 👂 heard | ⟶  | 🎓 known |
-| Callback hell | 🎓 known | ⟶  | 🖐️ used |
-| Promise hell | 🎓 known | ⟶  | 🖐️ used |
-| ref() and unref() | 👂 heard | ⟶  | 🖐️ used |
-| JSON streaming serialization | 👂 heard | ⟶  | 🖐️ used |
-| AsyncLocalStorage | 👂 heard | ⟶  | 🖐️ used |
-| AsyncResource | 👂 heard | ⟶  | 🖐️ used |
-| Web Locks API | 👂 heard | ⟶  | 🎓 known |
 | IPC | 👂 heard | ⟶  | 🎓 known |
-| Channel API | 👂 heard | ⟶  | 🎓 known |
-| Revealing constructor | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `37` of `75` skills, `38` to be upgraded, and `16` above needed
+Total: you have `74` of `75` skills, `1` to be upgraded, and `21` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
