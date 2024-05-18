@@ -21,7 +21,6 @@
   - Data definition language (DDL): 🙋 explained
   - Data manipulation language (DML): 🙋 explained
   - Data query language (DQL): 🙋 explained
-
 - Relational
   - Entity-Relationship Diagram: 🙋 explained
   - Normal forms: 🙋 explained
@@ -36,7 +35,6 @@
   - Materialized views: 🙋 explained
   - Replications: 🙋 explained
   - Virtualization: 🎓 known
-
 - SQL
   - `SELECT`: 🙋 explained
   - `INSERT`: 🙋 explained
@@ -71,7 +69,6 @@
   - `REVOKE`: 🙋 explained
   - `DENY`: 🎓 known
   - `EXPLAIN`: 🖐️ used
-
 - Engines
   - PostgreSQL: 🙋 explained
   - Oracle: 🖐️ used
@@ -87,7 +84,6 @@
   - SQLite: 👂 heard
   - DynamoDB: 👂 heard
   - Firebase: 👂 heard
-
 - Data engineering
   - Data warehousing: 🙋 explained
   - Business intelligence: 🎓 known

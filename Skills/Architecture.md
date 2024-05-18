@@ -23,7 +23,6 @@
   - Availability: 🙋 explained
   - Flexibility: 👂 heard
   - Law of Demeter (LoD): 👂 heard
-
 - Application architecture
   - Isolation between layer: 🎓 known
   - Domain-specific language (DSL): 🙋 explained
@@ -31,7 +30,7 @@
   - Multilayer approach: 🎓 known
   - Hexagonal architecture: 👂 heard
   - Separation of concerns (SoC): 🎓 known
-  - Metaprogramming:👂 heard
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC): 🎓 known
   - Dependency injection (DI): 🎓 known
   - Clean architecture: 🎓 known
@@ -61,7 +60,6 @@
   - Serverless: 🙋 explained
   - Vendor lock-in: 🙋 explained
   - Bus factor: 🙋 explained
-
 - Solution architecture
   - A software requirements specification (SRS): 👂 heard
   - Solution visions: 👂 heard
@@ -81,7 +79,6 @@
   - ACID: 🎓 known
   - CAP theorem: 👂 heard
   - Single source of truth (SSOT): 👂 heard
-
 - Enterprise architecture
   - Understanding business needs: 🖐️ used
   - Enterprise strategy: 👂 heard
