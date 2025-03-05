@@ -1,89 +1,89 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
+  - Event loop: 🎓 known
   - `try..catch`: 🙋 explained
   - Non-blocking: 🙋 explained
   - Async I/O: 🖐️ used
   - Thread pool: 🙋 explained
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions: 👂 heard
-  - Dead locks
-  - Live locks
+  - Pattern Reactor: 🎓 known
+  - CAS operations: 👂 heard
+  - epoll: 👂 heard
+  - kqueue: 👂 heard
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
+  - libuv: 🎓 known
+  - Race conditions: 🖐️ used
+  - Dead locks: 🖐️ used
+  - Live locks: 🖐️ used
   - Concurrent programming: 🙋 explained
   - Parallel programming: 🙋 explained
-  - Actor Model: 👂 heard
+  - Actor Model: 🎓 known
   - Thread: 🙋 explained
   - Process: 🙋 explained
 - Async contracts
   - Callbacks: 🙋 explained
   - Callback-last-error-first: 🙋 explained
-  - Thenable: 👂 heard
+  - Thenable: 🖐️ used
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
   - Future: 🙋 explained
   - Deferred: 👂 heard
-  - Sync generator: 👂 heard
-  - Async Generator: 👂 heard
-  - Async Iterator: 👂 heard
-  - Event: 👂 heard
+  - Sync generator: 🖐️ used
+  - Async Generator: 🖐️ used
+  - Async Iterator: 🖐️ used
+  - Event: 🖐️ used
   - Coroutine: 🖐️ used
   - Goroutine: 🖐️ used
   - Signal: 🖐️ used
   - Stream: 🖐️ used
-  - Chain of responsibility: 👂 heard
-  - Middleware: 👂 heard
+  - Chain of responsibility: 🖐️ used
+  - Middleware: 🖐️ used
   - Locks: 🖐️ used
 - Async adapters and utils
-  - callbackify: 👂 heard
-  - promisify: 👂 heard
-  - asyncify: 👂 heard
+  - callbackify: 🖐️ used
+  - promisify: 🖐️ used
+  - asyncify: 🖐️ used
   - Callbacks compose: 👂 heard
   - Async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter: 🎓 known
-  - Observable/Observer: 🎓 known
-  - Readable: 👂 heard
-  - Writable: 👂 heard
-  - Transform: 👂 heard
-  - Async Pool: 👂 heard
-  - Async Queue: 👂 heard
-  - Async Collector: 👂 heard
-  - Semaphore: 👂 heard
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
+  - Transform: 🖐️ used
+  - Async Pool: 🖐️ used
+  - Async Queue: 🖐️ used
+  - Async Collector: 🖐️ used
+  - Semaphore: 🖐️ used
   - Mutex: 🖐️ used
-  - Spin Lock
+  - Spin Lock: 🖐️ used
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON streaming serialization
-  - AsyncLocalStorage
-  - AsyncResource
+  - Timers: 🖐️ used
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
+  - AbortController: 🖐️ used
+  - AbortSignal: 🖐️ used
+  - Promise unhandled rejection: 🖐️ used
+  - Promise double resolve: 🖐️ used
+  - Atomics: 🖐️ used
+  - High resolution clock: 🖐️ used
+  - Callback hell: 🖐️ used
+  - Promise hell: 🖐️ used
+  - ref() and unref(): 🖐️ used
+  - Error handling in async code: 🖐️ used
+  - Better stack traces with return await: 🖐️ used
+  - JSON streaming serialization: 🖐️ used
+  - AsyncLocalStorage: 🖐️ used
+  - AsyncResource: 🖐️ used
 - Techniques
   - Async.js library: 👂 heard
   - RxJS library: 👂 heard
-  - Promise.all: 👂 heard
-  - Promise.allSettled: 👂 heard
-  - Promise.race: 👂 heard
-  - Promise.any: 👂 heard
-  - Web Locks API
-  - IPC
-  - Channel API
-  - Revealing constructor
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 🖐️ used
+  - Promise.race: 🖐️ used
+  - Promise.any: 🖐️ used
+  - Web Locks API: 🖐️ used
+  - IPC: 👂 heard
+  - Channel API: 🖐️ used
+  - Revealing constructor: 🖐️ used
